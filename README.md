@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 I'm a Computer Science student passionate about building practical and impactful software.</p>
-<p aling="center">
+<p align="center">
 🌱 Currently learning <strong>Java</strong> and the fundamentals of <strong>Object-Oriented Programming</strong>.
 </p>
 
