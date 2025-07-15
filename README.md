@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
 
 <p align="center">
-🎓 I'm a Computer Science student passionate about building practical and impactful software.  
+🎓 I'm a Computer Science student passionate about building practical and impactful software.</p>
+<p aling="center">
 🌱 Currently learning <strong>Java</strong> and the fundamentals of <strong>Object-Oriented Programming</strong>.
 </p>
 
