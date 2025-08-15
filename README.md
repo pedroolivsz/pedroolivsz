@@ -19,9 +19,14 @@
 
 ---
 
+<div align="center">
+  <a href="https://github.com/pedroolivsz">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroolivsz&show_icons=true&theme=radical" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroolivsz&theme=radical" />
+  </a>
+</div>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedroolivsz&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedroolivsz&theme=radical" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroolivsz&layout=compact&theme=radical" />
 </p>
 
