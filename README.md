@@ -21,8 +21,8 @@
 
 <div align="center">
   <a href="https://github.com/pedroolivsz">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedroolivsz&show_icons=true&theme=radical" />
-    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroolivsz&theme=radical" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedroolivsz&show_icons=true&theme=radical" />
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroolivsz&theme=radical" />
   </a>
 </div>
 
