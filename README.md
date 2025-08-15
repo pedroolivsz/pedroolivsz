@@ -1,20 +1,14 @@
-<h1 align="center">Hi, I'm Pedro</h1>
+# 👩🏻‍💻 João Pedro
 
-<p align="center">
-🎓 I'm a Computer Science student passionate about building practical and impactful software.</p>
-<p align="center">
-🌱 Currently learning <strong>Java</strong> and the fundamentals of <strong>Object-Oriented Programming</strong>.
-</p>
+**`Computer Science student`** **`Learning Java`**
 
 ---
 
-### 📲 Connect with me
-
-[![Instagram](https://img.shields.io/badge/-@pedrooliv.sz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedrooliv.sz)
+  [![Instagram](https://img.shields.io/badge/-@pedrooliv.sz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedrooliv.sz)
+  <a href = "mailto:pedrooliv.szz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedrooliv-sz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ---
-
-### 🧰 Languages and Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -25,14 +19,14 @@
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pedroolivsz&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroolivsz&layout=compact&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedroolivsz&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroolivsz&layout=compact&theme=radical" />
 </p>
 
 ---
+
+
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
